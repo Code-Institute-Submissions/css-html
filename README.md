@@ -59,7 +59,8 @@ Wireframes
 
 - [Navbar elements](https://www.w3docs.com/learn-html/html-nav-tag.html) have [#fafafa](https://www.color-hex.com/color/fafafa) color.
 - [h2](https://www.w3schools.com/tags/tag_hn.asp) on the  header have a [#ff0000](https://www.color-hex.com/color/ff0000) color.
-- [P](https://www.w3docs.com/learn-html/html-p-tag.html) on the  header have a [#b20000](https://www.color-hex.com/color/b20000) color.
+- [P](https://www.w3docs.com/learn-html/html-p-tag.html) on the  header have a [#ff0000](https://www.color-hex.com/color/ff0000) color.
+- Navbar have a blue background color.
 - In the body, [h2](https://www.w3schools.com/tags/tag_hn.asp) have a  [#000000](https://www.color-hex.com/color/000000) color.
 - In the body, [P](https://www.w3docs.com/learn-html/html-p-tag.html) and [li](https://www.w3schools.com/tags/tag_li.asp) have a [#696969](https://www.color-hex.com/color/696969) color.
 - In the footer, [h3](https://icolorpalette.com/color/fff) color and [P](https://www.w3docs.com/learn-html/html-p-tag.html) have [#fafafa](https://www.color-hex.com/color/fafafa) color.
@@ -152,6 +153,8 @@ By forking the GitHub Repository we make a copy of the original repository on ou
  
  images were taken form [pixabary](https://pixabay.com/es/)
 
-Code for index.html was taken from [boostrap](https://getbootstrap.com/)
-Code for training.html was taken from  [boostrap](https://getbootstrap.com/) and inspired on[youtube](https://www.youtube.com/watch?v=yzRgUUFSGOs&t=182s).
-Code for joinus.html was taken from [boostrap](https://getbootstrap.com/) and inspired on [youtube](https://www.youtube.com/watch?v=qVGMtFvk1so)
+- Code for index.html was taken from [boostrap](https://getbootstrap.com/docs/4.2/getting-started/introduction/)
+- Code for training.html was taken from  [boostrap](https://getbootstrap.com/docs/4.2/getting-started/introduction/) and inspired on[youtube](https://www.youtube.com/watch?v=yzRgUUFSGOs&t=182s).
+- Code for joinus.html was taken from [boostrap](https://getbootstrap.com/docs/4.2/getting-started/introduction/) and inspired on [youtube](https://www.youtube.com/watch?v=qVGMtFvk1so)
+- Code for thank.html was taken from [boostrap](https://getbootstrap.com/docs/4.2/getting-started/introduction/)
+- Deployment was taken from [SampleReadme](https://github.com/Code-Institute-Solutions/SampleREADME)

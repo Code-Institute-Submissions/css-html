@@ -3,6 +3,9 @@
 
  /* header */ 
 
+ .navbar {
+  background-color:blue;
+ }
 html, body{
     margin:0px;
     padding:0px;
@@ -26,7 +29,7 @@ html, body{
     left: 0;
 }
 
-.bg-dark {
+.bg-blue {
     position: fixed;
     width: 100%;
     z-index: 20;
@@ -57,7 +60,7 @@ background-color:red;
 
 
 .text-header h2 {
-    margin-top: 30px;
+    margin-top: 60px;
     font-family: 'Oswald';
      text-align: center;
     color: #ff0000;
@@ -67,9 +70,10 @@ background-color:red;
  .text-header p {
      font-family: sans-serif;
      text-align: center;
-     color:#b20000;
+     color:#ff0000;
      font-size: 35px;
      position: center;
+     margin-top: 30px;
  }
  
  /* body  index*/ 
@@ -188,6 +192,7 @@ object-fit: cover;
   .text-header .training-text{
       color: #fafafa;
       font-family:  sans-serif;
+
   }
 
 
