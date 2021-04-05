@@ -1,0 +1,298 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+ /* header */ 
+
+html, body{
+    margin:0px;
+    padding:0px;
+}
+.header {
+ width: 100%;
+ min-height: 50vh;
+ background-image:url(../images/fitness-1882721_1280.jpg);
+ background-repeat: no-repeat;
+ background-position: center;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+.header:before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.bg-dark {
+    position: fixed;
+    width: 100%;
+    z-index: 20;
+}
+
+
+.navg a {
+    color:#fafafa;
+    font-family: 'Oswald';
+    font-size: 23px;
+    font-weight: 600;
+    padding: 10px 15px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.navg a:hover{
+background-color:red;
+}
+
+ 
+    .text-header {
+   padding-top: 50px;
+    position: center;
+    margin: auto;
+    padding-left: 30%;
+    padding-right: 20%;
+}
+
+
+.text-header h2 {
+    margin-top: 30px;
+    font-family: 'Oswald';
+     text-align: center;
+    color: #ff0000;
+    font-size: 45px;
+    position: center;
+}
+ .text-header p {
+     font-family: sans-serif;
+     text-align: center;
+     color:#b20000;
+     font-size: 35px;
+     position: center;
+ }
+ 
+ /* body  index*/ 
+
+  .center {
+      margin-top: 30px;
+      margin-bottom: 30px;
+  }
+ .center h2{
+     color: #000000;
+     font-family:  'Oswald';
+    font-size: 2.4em;
+ }
+
+ .center p{
+       font-family:  sans-serif;
+     color:		#696969;
+     font-size: 1.1em;
+ }
+
+ .center li {
+     color:		#696969;
+     font-family: sans-serif;
+    letter-spacing: 2.5px;
+     font-size: 1.1em;
+     list-style: none;
+     margin-bottom: 5px;
+ }
+
+ .center li::before {
+     content: "\1F3CB";
+     margin-right: 10px;
+ }
+  /*main body training*/ 
+
+ .card-image-top {
+width: 100%;
+height: 30vh;
+object-fit: cover;
+}
+
+  .facilities {
+      background-color: #fff;
+      padding: 30px 0;
+  }
+
+  .facilities h1 {
+      font-weight: 900;
+      font-size: 34px;
+      padding-bottom: 5px;
+      font-family: sans-serif;
+  }
+
+  .title h1 {
+      text-align: center;
+      padding: 25px 0;
+  }
+
+  .title p {
+      text-align: center;
+      font-size: 18px;
+  }
+
+  .card-body {
+      box-shadow: 0 0 25px 10px rgba(0,0,0,.1);
+
+  }
+  .card {
+      margin: 20px 10px;
+  }
+  
+   .card-sauna {
+       background-color:#792509;
+   }
+   
+   .card-gym {
+       background-color:#09794c;
+   }
+   .card-boxing {
+       background-color:#790909;
+   }
+ 
+  .card-body {
+      color:#fafafa;
+      text-decoration: skyblue;
+      margin-top: auto;
+      font-size: 15px;
+      font-weight: 700;
+      height: 40vh;
+  }
+
+  .title-card{
+      font-size: 28px;
+      font-weight: 800;
+      font-family: 'Oswald' ;
+      color:#fafafa;
+  }
+
+  .card-text {
+      font-size: 20px ;
+      font-weight: 100;
+      font-family: sans-serif;
+      color:#fafafa;
+  }
+
+  .card-body a:hover {
+      color: #6633aa;
+      text-decoration: none;
+  }
+  
+  .gym {
+       justify-content: space-around;
+       display: inline;
+  }
+
+  .text-header .training-text{
+      color: #fafafa;
+      font-family:  sans-serif;
+  }
+
+
+  /*li-gym */ 
+  .clock {
+      color:#fafafa;
+     font-family: sans-serif;
+    letter-spacing: 1.2px;
+     font-size: 1.1em;
+     list-style: none;
+     justify-content: space-around;
+ }
+
+ .clock:before {
+     content: "\231A";
+     margin-right: 10px;
+ }
+
+ /* footer*/ 
+
+
+ .footer-main p {
+    color:#fafafa;
+    line-height: 25px;
+}
+
+
+.footer-main h2,h3 {
+    color: #fff;
+}
+
+.footer-main {
+    background: #111;
+    padding: 80px 0;
+}
+@media(min-width:780px){
+.segment-two {
+    padding-left: 200px;
+}
+}
+
+.segment-two a {
+    background: #494848;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.segment-two a i {
+    font-size: 22px;
+    color: #fff;
+    padding: 10px 12px;
+    text-align: center; 
+}
+
+a {
+   display: inline-block;
+   margin: 0 30px 0 0;
+}
+
+
+ /* Registrer form*/ 
+
+
+ .registration {
+     width: 100%;
+ min-height: 100vh;
+ background-image:url(../images/istockphoto-579779104-1024x1024.jpg);
+ background-repeat: no-repeat;
+ background-position: center;
+ background-attachment: fixed;
+ background-size: cover;
+ }
+.ui {
+  background-color:#333;
+  padding: 30px;
+  top: 30%;
+  left: 30%;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.ui label {
+    color: #fff;
+
+}
+
+ /* Thank.html*/ 
+
+ .container-thank{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    margin-top: 40px;
+ }
+
+ .thank {
+     font-size: 40px;
+     font-family: sans-serif;
+     text-align: center;
+     margin-top: 30px;
+     margin-left: 30px;
+     color:#000000;
+ }
