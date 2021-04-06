@@ -123,10 +123,25 @@ Joinus page.
  - [link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwaltercarreno.github.io%2Fcss-html%2F) 
  ### 8.2 test cases
  ### Home
-  Home have a navbar, body and footer.
+  Home have a navbar, body and footer. (Laptop)
  ![](photos/screenshoots/home.png)
+   
+   Home have a navbar and body.(mobile)
+![](photos/screenshoots/home-phone.png)
+ 
+  Home  navbar, body and footer.(mobile)
+  ![](photos/screenshoots/home-phonefooter.png)
+
+  ### Training
+  Training page have 3 cards on the same line displayed on laptop size.
+  ![](photos/screenshoots/cards.png)
   
- ### Registration form
+  While cards on mobile devices is displayed on column.
+  ![](photos/screenshoots/cards-phone0.png)
+  ![](photos/screenshoots/cards-phone1.png)
+  ![](photos/screenshoots/cards-phone2.png)
+
+ ### Join us - Registration form
 You have to fill all camps before send the registration form.
 ![](photos/screenshoots/registrationform.jpg)
 
@@ -136,6 +151,9 @@ Your password must be at least 8 letters long.
 You must enter a valid email to register @
 ![](photos/screenshoots/@email.jpg)
 
+### Sing up 
+Have a form in the body.(laptop and mobile)
+![](photos/screenshoots/singup.png)
 ## **9. Deployment**
 ### 9.1 GitHub Pages
 The project was deployed to GitHub Pages using the following steps...
@@ -144,9 +162,9 @@ The project was deployed to GitHub Pages using the following steps...
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. The page will automatically refresh.
-5 .Scroll back down through the page to locate the now published site [link](https://github.com/) in the "GitHub Pages" section.
+5 .Scroll back down through the page to locate the now published site [link](https://waltercarreno.github.io/css-html/) in the "GitHub Pages" section.
 
-## Forking the GitHub Repository
+### Forking the GitHub Repository
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
 1. Log in to GitHub and locate the GitHub Repository
