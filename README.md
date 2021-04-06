@@ -7,11 +7,10 @@ With this project I would like to create a website for a gym.
 
 ## **2. User stories**
 ## Gym user
-As a gym user I would like to join a gym and know the activities availables.
+As a gym user I would like to know what a gym can offer.
 
-## Register user
 
-As a registered user I want to know the gym schedule as well as the available activities.
+As a gym user i want to know want can I do in the gym.
 
 
 
@@ -110,19 +109,24 @@ Joinus page.
 
 ## **7. Technology**
 
-- [Css](https://www.w3.org/Style/CSS/Overview.en.html)
-- [Html](https://en.wikipedia.org/wiki/HTML)
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- [Balsamiq](https://balsamiq.com/)
-- [Font awesome](https://fontawesome.com/v4.7.0/icon/bars)
-- [Google font](https://fonts.google.com/)
-- [Gitpod](https://www.gitpod.io/)
-- [Boostrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+- [Css](https://www.w3.org/Style/CSS/Overview.en.html) was used to style the website.
+- [Html](https://en.wikipedia.org/wiki/HTML) was used the main code used to writte the pages.
+- [Balsamiq](https://balsamiq.com/) was used to make the wireframes.
+- [Font awesome](https://fontawesome.com/v4.7.0/icon/bars) is used to style nav.
+- [Google font](https://fonts.google.com/)  is used to style text.
+- [Gitpod](https://www.gitpod.io/) is used to deploy the code.
+- [Boostrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) is used as the main framework
 
 ## **8. Testing**
  ### 8.1 Testing code
- [Tested](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwhite-goat-3hbi514l.ws-eu03.gitpod.io%2F%23%2Fworkspace%2Fcss-html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) 
+ This code was validated using [validator.w3](https://validator.w3.org/)
+ - [link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwaltercarreno.github.io%2Fcss-html%2F) 
  ### 8.2 test cases
+ ### Home
+  Home have a navbar, body and footer.
+ ![](photos/screenshoots/home.png)
+  
+ ### Registration form
 You have to fill all camps before send the registration form.
 ![](photos/screenshoots/registrationform.jpg)
 
