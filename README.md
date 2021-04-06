@@ -137,8 +137,11 @@ Joinus page.
   ![](photos/screenshoots/cards.png)
   
   While cards on mobile devices is displayed on column.
+
   ![](photos/screenshoots/cards-phone0.png)
+
   ![](photos/screenshoots/cards-phone1.png)
+  
   ![](photos/screenshoots/cards-phone2.png)
 
  ### Join us - Registration form
